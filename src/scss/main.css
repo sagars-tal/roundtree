@@ -1,0 +1,77 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Mulish:wght@400;500;700&display=swap'); */
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@400;700&display=swap");
+body {
+  margin: 0;
+  /* font-family: 'Mulish', sans-serif; */
+  font-family: 'Lato', sans-serif;
+}
+
+.navbar-brand {
+  color: #576ee6 !important;
+  font-size: 2rem !important;
+  font-weight: 700;
+}
+
+#header {
+  height: 80vh;
+  width: 100%;
+  margin-top: 3rem;
+}
+
+#header h1 {
+  font-weight: 700;
+  color: #576ee6;
+}
+
+#header .cstmbtn {
+  display: inline-block;
+  border-radius: 50px;
+  letter-spacing: 1px;
+  -webkit-transition: 0.5s;
+  transition: 0.5s;
+  text-decoration: none;
+  width: 200px;
+  color: #ffffff;
+  padding: 10px 20px;
+  text-align: center;
+}
+
+#header .btn-grad {
+  background-image: -webkit-gradient(linear, left top, right top, from(#4776E6), color-stop(51%, #8E54E9), to(#4776E6));
+  background-image: linear-gradient(to right, #4776E6 0%, #8E54E9 51%, #4776E6 100%);
+}
+
+#header .btn-grad:hover {
+  background-position: right center;
+}
+
+#header .header-img {
+  text-align: right;
+}
+
+#header .animated {
+  animation: up-down 2s ease-in-out infinite alternate-reverse both;
+}
+
+@-webkit-keyframes up-down {
+  0% {
+    -webkit-transform: translateY(10px);
+            transform: translateY(10px);
+  }
+  100% {
+    -webkit-transform: translateY(-10px);
+            transform: translateY(-10px);
+  }
+}
+
+@keyframes up-down {
+  0% {
+    -webkit-transform: translateY(10px);
+            transform: translateY(10px);
+  }
+  100% {
+    -webkit-transform: translateY(-10px);
+            transform: translateY(-10px);
+  }
+}
+/*# sourceMappingURL=main.css.map */
