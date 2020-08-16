@@ -28,7 +28,9 @@ const Navbar = () => {
                                         {/* <li classNameName="nav-item">
                                         <NavLink className="nav-link" to="/contact">Contac Us</NavLink>
                                         </li> */}
-                                        
+                                        {/* <li classNameName="nav-item">
+                                        <NavLink className="nav-link" to="/contact">Contac Us</NavLink>
+                                        </li> */}
                                     </ul>
                                 </div>
                             </div>
