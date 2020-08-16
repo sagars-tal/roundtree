@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/roundtree/static/css/main.bcab401d.chunk.css",
+    "main.js": "/roundtree/static/js/main.067f58b2.chunk.js",
+    "main.js.map": "/roundtree/static/js/main.067f58b2.chunk.js.map",
+    "runtime-main.js": "/roundtree/static/js/runtime-main.c8b9201f.js",
+    "runtime-main.js.map": "/roundtree/static/js/runtime-main.c8b9201f.js.map",
+    "static/css/2.75c4ecca.chunk.css": "/roundtree/static/css/2.75c4ecca.chunk.css",
+    "static/js/2.c60ef59b.chunk.js": "/roundtree/static/js/2.c60ef59b.chunk.js",
+    "static/js/2.c60ef59b.chunk.js.map": "/roundtree/static/js/2.c60ef59b.chunk.js.map",
+    "index.html": "/roundtree/index.html",
+    "precache-manifest.ae9ad2a79665ed78547435f6c76c805c.js": "/roundtree/precache-manifest.ae9ad2a79665ed78547435f6c76c805c.js",
+    "service-worker.js": "/roundtree/service-worker.js",
+    "static/css/2.75c4ecca.chunk.css.map": "/roundtree/static/css/2.75c4ecca.chunk.css.map",
+    "static/css/main.bcab401d.chunk.css.map": "/roundtree/static/css/main.bcab401d.chunk.css.map",
+    "static/js/2.c60ef59b.chunk.js.LICENSE.txt": "/roundtree/static/js/2.c60ef59b.chunk.js.LICENSE.txt",
+    "static/media/firstsection.svg": "/roundtree/static/media/firstsection.3bd97c45.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8b9201f.js",
+    "static/css/2.75c4ecca.chunk.css",
+    "static/js/2.c60ef59b.chunk.js",
+    "static/css/main.bcab401d.chunk.css",
+    "static/js/main.067f58b2.chunk.js"
+  ]
+}
